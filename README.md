@@ -2,7 +2,8 @@
 
 
 ## Hi there 👋 
-https://www.canva.com/design/DAGhlBoBEuM/pZUuyKGS0biGLg9_rPWTug/view?utm_content=DAGhlBoBEuM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h71dbbf4cb2
+![Black and White Simple Project Manager LinkedIn Background Photo](https://github.com/user-attachments/assets/a7af1d96-388e-4a91-90bf-d28ff3613e97)
+
 
  I'm Nevin Arushan Nijanthan, a dedicated undergraduate pursuing a BSc (Hons) in Information Technology at SLIIT (Sri Lanka Institute of Information Technology) and a passionate learner in the field of Computer Science. I thrive in dynamic, fast-paced environments where I can engage with cutting-edge technologies and tackle challenging coursework. I particularly enjoy collaborative projects that allow me to combine teamwork, creativity, and problem-solving skills to deliver innovative solutions.
 
