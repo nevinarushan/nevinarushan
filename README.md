@@ -10,7 +10,8 @@
 As I advance through my academic journey, I am eager to explore internships, research opportunities, and hands-on projects that will allow me to apply my knowledge and make a meaningful impact in the tech industry. I am always excited to connect with fellow students, educators, and industry professionals who share a similar vision. Let's collaborate, innovate, and drive positive change together! 🌐
 
 Languages and Frameworks 
-![Uploading Untitled (LinkedIn Article Cover Image).png…]()
+![Untitled (LinkedIn Article Cover Image)](https://github.com/user-attachments/assets/ad3b0adb-612b-42ba-a83a-60a89b37c669)
+
 
 
 
