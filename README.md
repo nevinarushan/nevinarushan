@@ -64,7 +64,11 @@ Languages and Frameworks:
 
 
 Contact:
-<p><a href="www.linkedin.com/in/nevin-nijanthan-9a1824274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MayuranThanushan" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/nevin-nijanthan-9a1824274" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nevin Nijanthan" height="30" width="40" />
+  </a>
+</p>
 
 
 
