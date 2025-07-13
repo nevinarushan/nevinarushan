@@ -71,12 +71,7 @@ Languages and Frameworks:
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
     </a>  
-    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
-    </a>  
-    <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg" alt="Sketch" width="40" height="40"/>
-    </a>  
+    
 </p>
 
 
